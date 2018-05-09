@@ -12,9 +12,7 @@ i kilka enterów
 ZDALNIE poprawione
 
 1234
-<<<<<<< HEAD
 
 MASTER dodaje linię
 i kolejną
-=======
->>>>>>> 336ae20... Update README.md
+
