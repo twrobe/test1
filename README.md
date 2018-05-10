@@ -1,6 +1,9 @@
 # test1
 test project
 
+SecondBranch 123
+456
+
 ZDALNIE rozwalam sam początek 
 
 FirstBranch dodaje tą linię 
