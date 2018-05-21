@@ -16,7 +16,9 @@ i kilka enterów
 ZDALNIE poprawione
 
 1234
+Zmiana nowa 1
 
 MASTER dodaje linię
 i kolejną
 
+Zmiana nowa
